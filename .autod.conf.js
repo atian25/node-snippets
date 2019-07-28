@@ -9,7 +9,6 @@ module.exports = {
   dep: [
   ],
   devdep: [
-    'egg-ci',
     'egg-bin',
     'autod',
     'eslint',
